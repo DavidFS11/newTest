@@ -1,0 +1,18 @@
+# Archivos de sistema operativo
+.DS_Store
+
+# Carpetas generadas por IDEs
+.idea/
+.vscode/
+
+# Dependencias de Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Archivos de construcción
+/build/
+/dist/
+
+# Archivos de configuración local
+.env
